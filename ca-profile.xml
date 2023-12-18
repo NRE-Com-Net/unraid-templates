@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/NRE-Com-Net/unraid-templates/master/NRE.Com.Net-Logo.png</Icon>
+  <Profile>
+    Just creating containers which I use myself configured the way I like it.
+  </Profile>
+  <DonateLink>https://paypal.me/NemesisRE</DonateLink>
+  <DonateText>If you like my work please consider Donating.</DonateText>
+  <WebPage>https://nrecom.net</WebPage>
+  <Discord>https://discord.gg/H3vNHTV3ub</Discord>
+</Maintainer>
